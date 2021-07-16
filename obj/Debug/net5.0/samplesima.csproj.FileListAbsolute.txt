@@ -1,0 +1,15 @@
+/Users/irehj/Projects/samplesima/samplesima/bin/Debug/net5.0/samplesima.deps.json
+/Users/irehj/Projects/samplesima/samplesima/bin/Debug/net5.0/samplesima.runtimeconfig.json
+/Users/irehj/Projects/samplesima/samplesima/bin/Debug/net5.0/samplesima.runtimeconfig.dev.json
+/Users/irehj/Projects/samplesima/samplesima/bin/Debug/net5.0/samplesima.dll
+/Users/irehj/Projects/samplesima/samplesima/bin/Debug/net5.0/ref/samplesima.dll
+/Users/irehj/Projects/samplesima/samplesima/bin/Debug/net5.0/samplesima.pdb
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/samplesima.csproj.AssemblyReference.cache
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/samplesima.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/samplesima.AssemblyInfoInputs.cache
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/samplesima.AssemblyInfo.cs
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/samplesima.csproj.CoreCompileInputs.cache
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/samplesima.dll
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/ref/samplesima.dll
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/samplesima.pdb
+/Users/irehj/Projects/samplesima/samplesima/obj/Debug/net5.0/samplesima.genruntimeconfig.cache
